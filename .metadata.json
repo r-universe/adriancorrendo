@@ -1,5 +1,9 @@
 [
   {
+    "package": "metrica",
+    "oncran": true
+  },
+  {
     "package": "soiltestcorr",
     "oncran": true
   }
